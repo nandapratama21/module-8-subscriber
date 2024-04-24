@@ -1,4 +1,4 @@
-tutorial 8
+Tutorial 8
 
 1. What is amqp?
 Answer: AMQP (Advanced Message Queuing Protocol) is an application layer protocol that is used for messaging. 
